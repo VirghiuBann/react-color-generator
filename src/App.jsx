@@ -3,10 +3,10 @@ import Form from './components/Form'
 
 const App = () => {
   return (
-    <section>
+    <main>
       <Form />
       <ColorList />
-    </section>
+    </main>
   )
 }
 export default App
